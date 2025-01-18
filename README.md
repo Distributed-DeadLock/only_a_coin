@@ -10,6 +10,8 @@ Stacks up to 65535.
 -------------
 ![The Coin](textures/coin.png)
 -------------
+![Coins](screenshots/Coins.png)
+-------------
 
 You can change the image, name, description or even the name of the mod without risking complications.
 To change the image, just put a new coin.png (32x32 pixels) in the texture folder. 
