@@ -11,6 +11,8 @@ Stacks up to 65535.
 ![The Coin](textures/coin.png)
 -------------
  
-License: Code: MIT , Textures: CC0
+**License**: Code: MIT , Textures: CC0
 
-Mod dependencies: NONE
+**Mod dependencies**: NONE
+
+**Author**: DeadLock
