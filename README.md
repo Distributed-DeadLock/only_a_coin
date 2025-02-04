@@ -26,7 +26,7 @@ coin_base.png in the texture-folder can be used as a template for the new image.
 **Mod dependencies**: NONE
 
 **Credits**:
-coin.png & coin_mt.png are based on work by erle 
+coin.png & coin_mt.png are based on work by erle :
 https://github.com/luanti-org/luanti/blob/master/misc/luanti.svg
 
 **Author**: DeadLock
